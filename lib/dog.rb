@@ -12,6 +12,7 @@ end
 
 lassie = Dog.name
 lassie.name = "Lassie"
-binding.pry
 
 puts lassie.name
+
+binding.pry
